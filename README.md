@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<a href="https://app.daily.dev/ilichti"><img src="https://api.daily.dev/devcards/v2/9RDyvCfgSlhE5L1Kdwvty.png?type=default&r=230" width="356" alt="Lucas's Dev Card"/></a>
 <!--
 **llauret-iut90/llauret-iut90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
